@@ -36,6 +36,7 @@
 # 1
 # 0
 # 1
+
 n = int(input())
 li = []
 for i in range(n):
