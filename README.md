@@ -14,6 +14,7 @@ Tracking progress completing good programs, training for placements.
 Most questions are from hackerrank
 
 ### Feel free to fork and make pull requests, contributions are very appreciated.
+#### Please pull before making pull requests, the file you want to add may already be here.
 Add question, explanation, sample I/O to the files you upload, and put them in appropriate folders. 
 
 
