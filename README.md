@@ -8,6 +8,7 @@ Tracking progress completing good programs, training for placements.
 * [Shreayan Chaudhary](https://github.com/shreayan98c)
 * [Anmol Chawla](https://github.com/anmol-chawla)
 * [Harshit Agarwal](https://github.com/harshitag98)
+* [Renish Kumar](https://github.com/rk080299)
 
 ### Open the files for sample input and outputs
 
