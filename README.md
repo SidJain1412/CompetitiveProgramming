@@ -9,6 +9,7 @@ Tracking progress completing good programs, training for placements.
 * [Anmol Chawla](https://github.com/anmol-chawla)
 * [Harshit Agarwal](https://github.com/harshitag98)
 * [Renish Kumar](https://github.com/rk080299)
+* [Yash Tandon](https://github.com/Yashtandon98)
 
 ### Open the files for sample input and outputs
 
