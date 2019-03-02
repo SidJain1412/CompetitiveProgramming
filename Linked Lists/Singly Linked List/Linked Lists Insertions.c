@@ -93,15 +93,14 @@ LinkedListNode* insertAtEnd(LinkedListNode* head, int val) {
         head=temp;
     }
     else
-    {   struct  LinkedListNode *temp1=(struct  LinkedListNode*)malloc(sizeof(struct  LinkedListNode));
+    {   
+        struct  LinkedListNode *temp1=(struct  LinkedListNode*)malloc(sizeof(struct  LinkedListNode));
         temp1=head;
         while(temp1->next!=NULL)
-        {
             temp1=temp1->next;
-        }
-      temp->val=val;
-     temp1->next=temp;
-     temp->next=NULL;
+        temp->val=val;
+        temp1->next=temp;
+        temp->next=NULL;
     }
     return head;
 }
@@ -126,7 +125,7 @@ LinkedListNode* insertAtPosition(LinkedListNode* head, int val, int pos) {
     }
     else
     {   struct  LinkedListNode *temp1=(struct  LinkedListNode*)malloc(sizeof(struct  LinkedListNode));
-     temp1=head;
+        temp1=head;
         for(i=1;i<pos-1;i++)
         {
             temp1=temp1->next;
