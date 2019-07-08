@@ -1,6 +1,8 @@
 # CompetitiveProgramming
 Tracking progress completing good programs, training for placements.
 
+### [Search for existing file](https://github.com/SidJain1412/CompetitiveProgramming/find/master)
+
 ## Contributors: 
 * [Siddharth Jain](https://github.com/SidJain1412)
 * [Aradhya Singh](https://github.com/aradhyas)
