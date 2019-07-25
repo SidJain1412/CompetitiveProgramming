@@ -1,25 +1,17 @@
-Minimum Unique Array Sum
+# Minimum Unique Array Sum
 
-arr = [3,1,3,5,7]
-arrunique = [3,1,4,5,7]
-sum = 20
+# If any element has a duplicate in the array, increment it by 1 until no 2 elements are the same in the array.
+# Find the sum of all the array elements once all elements are unique.
 
-#!/bin/python3
+# Sample Input: [3,1,3,5,7]
+# Output: 20
 
-import math
-import os
-import random
-import re
-import sys
-
+# Explanation:
+# arr = [3,1,3,5,7]
+# arrunique = [3,1,4,5,7]
+# sum = 20
 
 
-#
-# Complete the 'getMinimumUniqueSum' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
 #!/bin/python3
 
 import math
