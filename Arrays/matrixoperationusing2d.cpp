@@ -35,7 +35,7 @@ Matrix of Sum of two matrix is:
 2  4  
 6  8  
 
-Matrix of Substraction of two matrix is: 
+Matrix of Subtraction of two matrix is: 
 
 
  Matrix is: 
@@ -224,7 +224,6 @@ int main(){
     cout << endl << "Transpose of matrix is: " << endl;
     m7.displaydata(m6);
 }
-
 
 
 
