@@ -1,5 +1,5 @@
 //Operations on matrix using 2-D array
-//standred run should look like this
+//standard run should look like this:
 /* For First Matrix :
  enter row :2
 
@@ -224,7 +224,6 @@ int main(){
     cout << endl << "Transpose of matrix is: " << endl;
     m7.displaydata(m6);
 }
-
 
 
 
