@@ -12,7 +12,7 @@ Solution:
 #include<iostream>
 using namespace std;
 
-bool RatInMaze(char maze[][5],int sol[10][10],int i,int j,int n,int m){
+bool RatInMaze(char maze[][100000],int sol[100000][100000],int i,int j,int n,int m){
     // Base case
     if(i==n-1 && j==m-1){
         // Print the path
@@ -51,19 +51,39 @@ bool RatInMaze(char maze[][5],int sol[10][10],int i,int j,int n,int m){
 
 
 int main(){
-    char maze[5][5]={
+    char maze[100000][100000];
+    int sol[100000][100000]={0};
+       int n,m;
+       cin>>m>>n;
+       for(int i=0;i<n;i++)
+       {
+           for(int j=0;j<m;j++)
+           {
+               cin>>maze[i][j];
+              
+           }
+       }
+       
+      
+    
+    /* char maze[5][5]={
         "0000",
         "00XX",
         "0000",
         "XX00"
     };
-    int sol[10][10] = {0};
+    */
+    
+    
+    
 
-    RatInMaze(maze,sol,0,0,4,4);
+    RatInMaze(maze,sol,0,0,n,m);
 
 
     return 0;
 }
+
+
 
 
 
