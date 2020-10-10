@@ -7,8 +7,6 @@ Tracking progress completing good programs, training for placements.
 ### [Search for existing file](https://github.com/SidJain1412/CompetitiveProgramming/find/master)
 
 ## Contributors: 
-* [Siddharth Jain](https://github.com/SidJain1412)
-* [Aradhya Singh](https://github.com/aradhyas)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -22,8 +20,10 @@ Tracking progress completing good programs, training for placements.
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+* [Siddharth Jain](https://github.com/SidJain1412)
+* [Aradhya Singh](https://github.com/aradhyas)
 * [Arnav Garg](https://github.com/arnavgarg123)
-* [Shreayan Chaudhary](https://github.com/shreayan98c)
 * [Anmol Chawla](https://github.com/anmol-chawla)
 * [Harshit Agarwal](https://github.com/harshitag98)
 * [Renish Kumar](https://github.com/rk080299)
