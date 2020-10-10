@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements.
 
@@ -19,6 +19,9 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
 <table>
   <tr>
     <td align="center"><a href="https://github.com/SidJain1412"><img src="https://avatars0.githubusercontent.com/u/35868478?s=460&u=156b7736e2f8b9ae4afe524c109541307eb657e1&v=4" width="100px;" alt=""/><br /><sub><b>SidJain1412</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=SidJain1412" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/aradhyas"><img src="https://avatars3.githubusercontent.com/u/25412932?s=400&u=8beaff3df591defa86779682992514bae8acb66c&v=4" width="100px;" alt=""/><br /><sub><b>Aradhya Singh</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=AradhyaS" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/anmol-chawla"><img src="https://avatars2.githubusercontent.com/u/7484880?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Anmol Chawla</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=anmol-chawla" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Yashtandon98"><img src="https://avatars3.githubusercontent.com/u/40264382?s=400&v=4" width="100px;" alt=""/><br /><sub><b>YashTandon</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Yashtandon98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Wittty-Panda"><img src="https://avatars3.githubusercontent.com/u/57390821?v=4" width="100px;" alt=""/><br /><sub><b>Wittty-Panda</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Wittty-Panda" title="Code">💻</a></td>
     <td align="center"><a href="http://shreayan98c.github.io"><img src="https://avatars3.githubusercontent.com/u/36050020?v=4" width="100px;" alt=""/><br /><sub><b>Shreayan Chaudhary</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=shreayan98c" title="Code">💻</a></td>
   </tr>
@@ -28,12 +31,8 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-* [Siddharth Jain](https://github.com/SidJain1412)
-* [Aradhya Singh](https://github.com/aradhyas)
 * [Arnav Garg](https://github.com/arnavgarg123)
-* [Anmol Chawla](https://github.com/anmol-chawla)
 * [Harshit Agarwal](https://github.com/harshitag98)
 * [Renish Kumar](https://github.com/rk080299)
-* [Yash Tandon](https://github.com/Yashtandon98)
 
 ### Open the files for sample input and outputs
