@@ -1,4 +1,7 @@
 # CompetitiveProgramming
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements.
 
 ### [Search for existing file](https://github.com/SidJain1412/CompetitiveProgramming/find/master)
@@ -6,6 +9,18 @@ Tracking progress completing good programs, training for placements.
 ## Contributors: 
 * [Siddharth Jain](https://github.com/SidJain1412)
 * [Aradhya Singh](https://github.com/aradhyas)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Wittty-Panda"><img src="https://avatars3.githubusercontent.com/u/57390821?v=4" width="100px;" alt=""/><br /><sub><b>Wittty-Panda</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Wittty-Panda" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 * [Arnav Garg](https://github.com/arnavgarg123)
 * [Shreayan Chaudhary](https://github.com/shreayan98c)
 * [Anmol Chawla](https://github.com/anmol-chawla)

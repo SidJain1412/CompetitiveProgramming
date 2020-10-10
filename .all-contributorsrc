@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Wittty-Panda",
+      "name": "Wittty-Panda",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57390821?v=4",
+      "profile": "https://github.com/Wittty-Panda",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CompetitiveProgramming",
+  "projectOwner": "SidJain1412",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
