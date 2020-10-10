@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements.
 
@@ -25,6 +25,9 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
     <td align="center"><a href="https://github.com/Yashtandon98"><img src="https://avatars2.githubusercontent.com/u/40264382?v=4" width="100px;" alt=""/><br /><sub><b>Yash Tandon</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Yashtandon98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/renish"><img src="https://avatars1.githubusercontent.com/u/30773676?v=4" width="100px;" alt=""/><br /><sub><b>Renish Kumar</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=rk080299" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/harshitag98"><img src="https://avatars0.githubusercontent.com/u/44051267?v=4" width="100px;" alt=""/><br /><sub><b>Harshit Agrawal</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=harshitag98" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/arnav-garg-913107156/"><img src="https://avatars1.githubusercontent.com/u/40370119?v=4" width="100px;" alt=""/><br /><sub><b>Arnav Garg</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=arnavgarg123" title="Code">💻</a></td>
   </tr>
 </table>
 
