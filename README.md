@@ -36,8 +36,4 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-* [Arnav Garg](https://github.com/arnavgarg123)
-* [Harshit Agarwal](https://github.com/harshitag98)
-* [Renish Kumar](https://github.com/rk080299)
-
 ### Open the files for sample input and outputs
