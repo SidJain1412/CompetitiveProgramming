@@ -3,6 +3,20 @@
 Created on Tue Jun 18 10:07:01 2019
 
 @author: edoardottt
+
+3-Coloration
+
+3-colorates a list with different colors without being near
+
+INPUT: elements in list, starting index
+
+OUTPUT: 3-colorated String 
+
+CONSTRAINTS: -
+
+Sample input: (4,0)
+
+Sample output: Recursive strings 3-colorated 
 """
 
 # 3-COLORATION
