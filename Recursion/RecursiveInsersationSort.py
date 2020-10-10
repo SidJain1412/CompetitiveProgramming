@@ -1,3 +1,23 @@
+#Problem Name
+## Sorting array using recursion
+
+#Problem Description
+## The problem is sorting an array using recursion.
+
+#INPUT:
+## an unsorted array.
+
+#OUTPUT:
+## Sorted array
+
+#CONSTRAINTS:
+## Recursive inseration sort gives complexity of O(n^2) which is not efficient as compared to merge sort 0(nlogn)
+
+#Sample input:
+## [12,11,13,5,6]
+#Sample output:
+## [6,5,11,12,13]
+
 arr = [12,11,13,5,6]
 n = len(arr)
 insertionSortRecursive(arr, n)
