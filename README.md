@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements.
 
@@ -22,6 +22,7 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
     <td align="center"><a href="http://shreayan98c.github.io"><img src="https://avatars3.githubusercontent.com/u/36050020?v=4" width="100px;" alt=""/><br /><sub><b>Shreayan Chaudhary</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=shreayan98c" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/bahroze-dev"><img src="https://avatars0.githubusercontent.com/u/61082015?v=4" width="100px;" alt=""/><br /><sub><b>Bahroze Ali</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=bahroze-dev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vishal-burman"><img src="https://avatars1.githubusercontent.com/u/19861874?v=4" width="100px;" alt=""/><br /><sub><b>Vishal Burman</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=vishal-burman" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/renish"><img src="https://avatars1.githubusercontent.com/u/30773676?v=4" width="100px;" alt=""/><br /><sub><b>Renish Kumar</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=rk080299" title="Code">💻</a></td>
   </tr>
 </table>
 
