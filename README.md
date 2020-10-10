@@ -2,7 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Tracking progress completing good programs, training for placements.
+Tracking progress completing good programs, training for placements, job interviews :100: .
+
+**Please add a :star: if you find this useful!**
 
 ### Feel free to fork and make pull requests, contributions are very appreciated.
 #### Please pull before making pull requests, the file you want to add may already be here.
