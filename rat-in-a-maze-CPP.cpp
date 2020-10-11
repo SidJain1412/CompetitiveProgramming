@@ -50,9 +50,9 @@ bool RatInMaze(char maze[][100000],int sol[100000][100000],int i,int j,int n,int
 }
 
 
+char maze[100][100];
+int sol[100][100]={0};
 int main(){
-    char maze[100000][100000];
-    int sol[100000][100000]={0};
        int n,m;
        cin>>m>>n;
        for(int i=0;i<n;i++)
@@ -82,7 +82,6 @@ int main(){
 
     return 0;
 }
-
 
 
 
