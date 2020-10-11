@@ -4,7 +4,7 @@ This program eliminates all the extra spaces from the string.
 
 INPUT FORMAT : one string
 OUTPUT FORMAT : one string 
-SAMPLE INPUT :    all      trim program    .    (size of string is 47 so input string lenght should be <=45)
+SAMPLE INPUT :    all      trim program    .    
 SAMPLE OUTPUT :(all trim program.)
 */
 
@@ -41,9 +41,9 @@ if(*(j-1)==' ') j--;
 
 int main()
 {
-char a[47];
+char a[2000];
 printf("Enter a string:");
-fgets(a,47,stdin);
+fgets(a,2000,stdin);
 a[strlen(a)-1]='\0';
 allTrim(a);
 printf("(%s)",a);
