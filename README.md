@@ -14,12 +14,12 @@ Add question, explanation, sample I/O to the files you upload, and put them in a
 
 **Fork this repository and clone on your local machine**
 ```
-git clone https://github.com/SidJain1412/CompetitiveProgramming.git
+git clone https://github.com/<your username>/CompetitiveProgramming.git
 ```
 
 **Make your changes**
 * Add any new problem and its solution
-* Refer Contributing.md for more details
+* Refer to [Contribution Guidelines](https://github.com/SidJain1412/CompetitiveProgramming/blob/master/CONTRIBUTING.md) for more details.
 
 **Commit and push**
 ```
@@ -30,7 +30,7 @@ git push origin master
 
 **Create a new pull request from your forked repository  
 Wait for your PR review and merge approval!
-As long as it follows all the Contribution Guidelines mentioned below, it should be accepted** 🎉🎉
+As long as it follows all the Contribution Guidelines mentioned below, it should be accepted.** 🎉🎉
 
 
 ### Refer to [Contribution Guidelines](https://github.com/SidJain1412/CompetitiveProgramming/blob/master/CONTRIBUTING.md) before making a PR
