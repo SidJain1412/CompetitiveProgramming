@@ -1,0 +1,105 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Wittty-Panda",
+      "name": "Wittty-Panda",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57390821?v=4",
+      "profile": "https://github.com/Wittty-Panda",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shreayan98c",
+      "name": "Shreayan Chaudhary",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36050020?v=4",
+      "profile": "http://shreayan98c.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bahroze-dev",
+      "name": "Bahroze Ali",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61082015?v=4",
+      "profile": "https://github.com/bahroze-dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vishal-burman",
+      "name": "Vishal Burman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19861874?v=4",
+      "profile": "https://github.com/vishal-burman",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Yashtandon98",
+      "name": "Yash Tandon",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40264382?v=4",
+      "profile": "https://github.com/Yashtandon98",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rk080299",
+      "name": "Renish Kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30773676?v=4",
+      "profile": "https://github.com/renish",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "harshitag98",
+      "name": "Harshit Agrawal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44051267?v=4",
+      "profile": "https://github.com/harshitag98",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "arnavgarg123",
+      "name": "Arnav Garg",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40370119?v=4",
+      "profile": "https://www.linkedin.com/in/arnav-garg-913107156/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aradhyas",
+      "name": "Aradhya Singh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25412932?v=4",
+      "profile": "http://aradhyas.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Yashithi98",
+      "name": "Yashithi Dharmawimala",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64062275?v=4",
+      "profile": "https://github.com/Yashithi98",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CompetitiveProgramming",
+  "projectOwner": "SidJain1412",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
