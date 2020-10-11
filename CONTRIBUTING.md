@@ -21,3 +21,4 @@
     Sample output:
      
 4. Try to explain your code using comments. No point having a good solution if no one can make sense of it.
+5. Please don't use spaces in the program name. This may cause some unexpected issues if used via the CLI. Instead, use either CamelCase or use underscore example Zero_One_Knapsack.py.

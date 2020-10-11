@@ -10,6 +10,29 @@ Tracking progress completing good programs, training for placements, job intervi
 #### Please pull before making pull requests, the file you want to add may already be here.
 Add question, explanation, sample I/O to the files you upload, and put them in appropriate folders. 
 
+### Getting Started
+
+**Fork this repository and clone on your local machine**
+```
+git clone https://github.com/<your username>/CompetitiveProgramming.git
+```
+
+**Make your changes**
+* Add any new problem and its solution
+* Refer to [Contribution Guidelines](https://github.com/SidJain1412/CompetitiveProgramming/blob/master/CONTRIBUTING.md) for more details.
+
+**Commit and push**
+```
+git add *
+git commit -m "your_message"
+git push origin master
+```
+
+**Create a new pull request from your forked repository  
+Wait for your PR review and merge approval!
+As long as it follows all the Contribution Guidelines mentioned below, it should be accepted.** 🎉🎉
+
+
 ### Refer to [Contribution Guidelines](https://github.com/SidJain1412/CompetitiveProgramming/blob/master/CONTRIBUTING.md) before making a PR
 
 ### [Search for existing file](https://github.com/SidJain1412/CompetitiveProgramming/find/master)
