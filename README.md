@@ -9,7 +9,6 @@ Tracking progress completing good programs, training for placements.
 * [Arnav Garg](https://github.com/arnavgarg123)
 * [Shreayan Chaudhary](https://github.com/shreayan98c)
 * [Anmol Chawla](https://github.com/anmol-chawla)
-* [Priyal Gupta](https://github.com/priyalgupta09)
 * [Harshit Agarwal](https://github.com/harshitag98)
 * [Renish Kumar](https://github.com/rk080299)
 * [Yash Tandon](https://github.com/Yashtandon98)
