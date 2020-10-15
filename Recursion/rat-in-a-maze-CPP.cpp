@@ -7,12 +7,12 @@ The maze is given using a matrix, where it is marked with 0, it is a valid path,
 NOTE: The rat can only move in two directions, either to the right or to the down.
 */
 
-Solution:
+//Solution:
 
 #include<iostream>
 using namespace std;
 
-bool RatInMaze(char maze[][100000],int sol[100000][100000],int i,int j,int n,int m){
+bool RatInMaze(char maze[][100],int sol[100][100],int i,int j,int n,int m){
     // Base case
     if(i==n-1 && j==m-1){
         // Print the path
@@ -54,18 +54,19 @@ char maze[100][100];
 int sol[100][100]={0};
 int main(){
        int n,m;
-       cin>>m>>n;
-       for(int i=0;i<n;i++)
-       {
-           for(int j=0;j<m;j++)
-           {
-               cin>>maze[i][j];
-              
+       string str;
+       cout << "Enter maze length: ";
+       cin >> m;
+       cout << "Enter maze breadth: ";
+       cin >> n;
+       for(int i=0;i<n;i++){
+	       cout << "Enter maze row(Should be equal to maze-breadth): ";
+	       cin >> str;
+           for(int j=0;j<str.length();j++){
+               maze[i][j] = str[j];
            }
        }
-       
-      
-    
+   
     /* char maze[5][5]={
         "0000",
         "00XX",
@@ -74,16 +75,8 @@ int main(){
     };
     */
     
-    
-    
-
     RatInMaze(maze,sol,0,0,n,m);
 
 
     return 0;
 }
-
-
-
-
-
