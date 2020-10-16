@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements, job interviews :100: .
 
@@ -59,6 +59,9 @@ As long as it follows all the Contribution Guidelines mentioned below, it should
     <td align="center"><a href="https://github.com/Deepika-Singh111"><img src="https://avatars0.githubusercontent.com/u/71891816?v=4" width="100px;" alt=""/><br /><sub><b>Deepika Singh</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Deepika-Singh111" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sid-1207"><img src="https://avatars2.githubusercontent.com/u/52534279?v=4" width="100px;" alt=""/><br /><sub><b>Siddharth Shah</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=sid-1207" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/priyalgupta09"><img src="https://avatars1.githubusercontent.com/u/72260191?v=4" width="100px;" alt=""/><br /><sub><b>priyalgupta09</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=priyalgupta09" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/akhil484"><img src="https://avatars1.githubusercontent.com/u/17046583?v=4" width="100px;" alt=""/><br /><sub><b>Akhil Sharma</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=akhil484" title="Code">💻</a></td>
   </tr>
 </table>
 
