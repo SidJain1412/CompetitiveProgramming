@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements, job interviews :100: .
 
@@ -46,7 +46,7 @@ As long as it follows all the Contribution Guidelines mentioned below, it should
     <td align="center"><a href="https://github.com/Wittty-Panda"><img src="https://avatars3.githubusercontent.com/u/57390821?v=4" width="100px;" alt=""/><br /><sub><b>Wittty-Panda</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Wittty-Panda" title="Code">💻</a></td>
     <td align="center"><a href="http://shreayan98c.github.io"><img src="https://avatars3.githubusercontent.com/u/36050020?v=4" width="100px;" alt=""/><br /><sub><b>Shreayan Chaudhary</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=shreayan98c" title="Code">💻</a> <a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=shreayan98c" title="Documentation">📖</a> <a href="https://github.com/SidJain1412/CompetitiveProgramming/pulls?q=is%3Apr+reviewed-by%3Ashreayan98c" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/bahroze-dev"><img src="https://avatars0.githubusercontent.com/u/61082015?v=4" width="100px;" alt=""/><br /><sub><b>Bahroze Ali</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=bahroze-dev" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vishal-burman"><img src="https://avatars1.githubusercontent.com/u/19861874?v=4" width="100px;" alt=""/><br /><sub><b>Vishal Burman</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=vishal-burman" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/vishal-burman"><img src="https://avatars1.githubusercontent.com/u/19861874?v=4" width="100px;" alt=""/><br /><sub><b>Vishal Burman</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=vishal-burman" title="Code">💻</a> <a href="https://github.com/SidJain1412/CompetitiveProgramming/pulls?q=is%3Apr+reviewed-by%3Avishal-burman" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Yashtandon98"><img src="https://avatars2.githubusercontent.com/u/40264382?v=4" width="100px;" alt=""/><br /><sub><b>Yash Tandon</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Yashtandon98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/renish"><img src="https://avatars1.githubusercontent.com/u/30773676?v=4" width="100px;" alt=""/><br /><sub><b>Renish Kumar</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=rk080299" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/harshitag98"><img src="https://avatars0.githubusercontent.com/u/44051267?v=4" width="100px;" alt=""/><br /><sub><b>Harshit Agrawal</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=harshitag98" title="Code">💻</a></td>
@@ -56,6 +56,12 @@ As long as it follows all the Contribution Guidelines mentioned below, it should
     <td align="center"><a href="http://aradhyas.github.io"><img src="https://avatars0.githubusercontent.com/u/25412932?v=4" width="100px;" alt=""/><br /><sub><b>Aradhya Singh</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=aradhyas" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Yashithi98"><img src="https://avatars0.githubusercontent.com/u/64062275?v=4" width="100px;" alt=""/><br /><sub><b>Yashithi Dharmawimala</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Yashithi98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/geekaditi"><img src="https://avatars0.githubusercontent.com/u/49093585?v=4" width="100px;" alt=""/><br /><sub><b>Aditi Saxena</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=geekaditi" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Deepika-Singh111"><img src="https://avatars0.githubusercontent.com/u/71891816?v=4" width="100px;" alt=""/><br /><sub><b>Deepika Singh</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Deepika-Singh111" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sid-1207"><img src="https://avatars2.githubusercontent.com/u/52534279?v=4" width="100px;" alt=""/><br /><sub><b>Siddharth Shah</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=sid-1207" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/priyalgupta09"><img src="https://avatars1.githubusercontent.com/u/72260191?v=4" width="100px;" alt=""/><br /><sub><b>priyalgupta09</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=priyalgupta09" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/akhil484"><img src="https://avatars1.githubusercontent.com/u/17046583?v=4" width="100px;" alt=""/><br /><sub><b>Akhil Sharma</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=akhil484" title="Code">💻</a></td>
   </tr>
 </table>
 
