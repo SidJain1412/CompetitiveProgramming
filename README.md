@@ -1,6 +1,6 @@
 # CompetitiveProgramming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Tracking progress completing good programs, training for placements, job interviews :100: .
 
@@ -62,6 +62,7 @@ As long as it follows all the Contribution Guidelines mentioned below, it should
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/akhil484"><img src="https://avatars1.githubusercontent.com/u/17046583?v=4" width="100px;" alt=""/><br /><sub><b>Akhil Sharma</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=akhil484" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/prasath-k-60138516a/"><img src="https://avatars1.githubusercontent.com/u/59371758?v=4" width="100px;" alt=""/><br /><sub><b>Prasath kathiresan</b></sub></a><br /><a href="https://github.com/SidJain1412/CompetitiveProgramming/commits?author=Starkultra" title="Code">💻</a></td>
   </tr>
 </table>
 
